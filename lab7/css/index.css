@@ -23,7 +23,7 @@ border: 1PX BLACK;
 Padding: 25px;
 }
 
-h1, h2, h3 {
+h1, h2, h3, {
   font-size: 20pt
   font-family: "Courier New", monospace;
 }
@@ -34,7 +34,7 @@ img{
   height: auto;
 }
 
-p1, p2, p3 .mainttext{
+p1, p2, p3, .mainttext{
   font-size: 14pt;
   color: white;
 }

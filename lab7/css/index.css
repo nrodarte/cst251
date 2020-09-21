@@ -33,3 +33,8 @@ img{
   width: 377.5px;
   height: auto;
 }
+
+p1, p2, p3 .mainttext{
+  font-size: 14pt;
+  color: white;
+}

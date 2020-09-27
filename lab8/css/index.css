@@ -4,6 +4,7 @@ body.template{
   border: 12px  solid BLACK;
   font-size: 16pt;
   font-family: "Times New Roman", Times, serif;
+  
 }
 
 
@@ -40,7 +41,7 @@ img.shegopic{
   width: 754pt;
   height: auto;
   padding: 25px;
-  border: 8px solid black;
+
 }
 
 p1,p2,p3, .maintext {

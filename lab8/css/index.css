@@ -1,0 +1,48 @@
+body.template{
+  margin:25px;
+  background-color:#D3D3D3;
+  border: 12px  solid BLACK;
+  font-size: 16pt;
+  font-family: "Times New Roman", Times, serif;
+}
+
+
+div#challenge {
+  background-color: lightgreen;
+  padding: 10px;
+}
+
+
+div#problems{
+  background-color: lightgreen;
+  padding: 10px;
+
+}
+
+
+div#results{
+  background-color: lightgreen;
+  padding: 10px;
+}
+
+h1,h2,h3,{
+  font-style: italic;
+  font-size: 20pt
+}
+
+div#picture{
+  border: 2px BLACK;
+  padding: 25px;
+}
+
+img.shegopic{
+  float: right;
+  width: 377.5px;
+  height: auto;
+  padding: 25px;
+}
+
+p1,p2,p3, .maintext {
+  color:BLACK;
+  font-size: 12pt;
+}

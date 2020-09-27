@@ -31,15 +31,16 @@ h1,h2,h3,{
 }
 
 div#picture{
-  border: 2px BLACK;
-  padding: 25px;
+  border: 5px BLACK;
+
 }
 
 img.shegopic{
   float: right;
-  width: 377.5px;
+  width: 754pt;
   height: auto;
-  padding: 25px;
+  padding: 50px;
+  border: 6px black;
 }
 
 p1,p2,p3, .maintext {

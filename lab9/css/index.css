@@ -43,7 +43,7 @@ h1,h2,h3, {
 }
 
 
-img{
+img.pic {
   float: right;
   max-width: 35%;
   height: auto;

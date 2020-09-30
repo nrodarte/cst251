@@ -1,6 +1,6 @@
 body.template{
   margin:35px;
-  background-color:#FFFF66;
+  background-color: #ffff66;
   border: 12px  solid BLACK;
   font-size: 16pt;
   font-family: "Times New Roman", Times, serif;
@@ -24,6 +24,10 @@ div#problems{
 
   padding: 10px;
 
+}
+div#picture{
+  margin-right: 20px;
+  background-color: lightblue
 }
 
 

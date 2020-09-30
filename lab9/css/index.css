@@ -1,0 +1,52 @@
+body.template{
+  margin:35px;
+  background-color:#FFFF66;
+  border: 12px  solid BLACK;
+  font-size: 16pt;
+  font-family: "Times New Roman", Times, serif;
+
+
+}
+div#content{
+  margin: 35px
+  padding: 20px
+}
+
+div#challenge {
+
+  background-color: lightblue;
+  padding: 10px;
+}
+
+
+div#problems{
+  background-color: lightblue;
+
+  padding: 10px;
+
+}
+
+
+div#results{
+  background-color: lightblue;
+  padding: 10px;
+}
+
+h1,h2,h3, {
+
+  font-size: 30pt;
+  color: Red;
+}
+
+
+img{
+  float: right;
+  max-width: 35%;
+  height: auto;
+  padding: 30px;
+}
+
+p1,p2,p3, .maintext {
+  color: black;
+  font-size: 14pt;
+}

@@ -32,16 +32,29 @@ div#results{
   padding: 10px;
 }
 
-h1,h2,h3, {
+h1 {
 
   font-size: 36pt;
   color: White;
-  font-family: "Arial Black", gadget, sans-serif;
+  font-family: "Arial Black", sans-serif;
   text-transform: uppercase;
   letter-spacing:2px;
 
 }
-
+h2 {
+  font-size: 36pt;
+  color: White;
+  font-family: "Arial Black", sans-serif;
+  text-transform: uppercase;
+  letter-spacing:2px;
+}
+h3 {
+  font-size: 36pt;
+  color: White;
+  font-family: "Arial Black", sans-serif;
+  text-transform: uppercase;
+  letter-spacing:2px;
+}
 
 
 p1,p2,p3, .maintext {

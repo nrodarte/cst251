@@ -57,7 +57,10 @@ h3 {
 }
 
 
-p1,p2,p3, .maintext {
-  color: White;
+p1{
+  color:white;
+  font-family: arial, sans-serif;
   font-size: 16pt;
+
+  
 }

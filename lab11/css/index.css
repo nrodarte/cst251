@@ -21,10 +21,15 @@ div#results{
   padding: 10px;
 }
 aside#sidebar{
-  display: inline;
+  display: inline-block;
+  font-size: 20px;
+  padding:2px;
+
 
 }
-
+nav.links{
+  background-color: inherit;
+}
 
 
 
@@ -103,9 +108,4 @@ p3{
   color:white;
   font-family: arial, sans-serif;
   font-size: 16pt;
-}
-img.yellow{
-  width: 700px;
-  height: 700px;
-  padding: 30px;
 }

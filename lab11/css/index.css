@@ -28,7 +28,7 @@ aside{
 ul{
   list-style-type: none;
   margin:0;
-  padding:0;
+  padding:10pt;
   overflow:hidden;
 }
 li{
@@ -38,7 +38,7 @@ li{
 
 li a{
   display:block;
-  padding:5px;
+  padding:10px;
   background-color: #FFB6C1;
 
 }

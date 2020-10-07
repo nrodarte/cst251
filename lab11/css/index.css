@@ -129,11 +129,12 @@ p3{
   font-size: 16pt;
 }
 p4{
-  color:white;
-  font-family:arial, sans-serif;
-  font-size: 12pt;
+  color:black;
+  font-family:arial bold, sans-serif;
+  font-size: 11pt;
   letter-spacing: 1px;
   margin: 10px;
+
 }
 
 img{

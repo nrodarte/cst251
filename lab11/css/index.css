@@ -23,7 +23,7 @@ div#results{
 }
 aside{
   float: right;
-  margin: 1%;
+  margin: 8pt;
   width: 10%;
 }
 ul{
@@ -133,6 +133,7 @@ p4{
   font-family:arial, sans-serif;
   font-size: 12pt;
   letter-spacing: 1px;
+  margin: 10px;
 }
 
 img{

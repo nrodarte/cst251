@@ -5,19 +5,20 @@ body.template{
 }
 div#content{
   margin: 35px
-  padding: 20px
+  padding: 20px;
+
 }
 div#challenge {
-  background-color: #FFB6C1;
+  background-color: #b19cd9;
   padding: 10px;
 }
 div#problems{
-  background-color:  #FFB6C1;
+  background-color:  #b19cd9;
   padding: 10px;
 }
 
 div#results{
-  background-color:  #FFB6C1;
+  background-color:  #b19cd9;
   padding: 10px;
 }
 aside{
@@ -28,18 +29,21 @@ aside{
 ul{
   list-style-type: none;
   margin:0;
-  padding:10pt;
   overflow:hidden;
+  background-color: purple;
 }
 li{
   float: right;
+  position: absolute right;
 
 }
 
 li a{
   display:block;
   padding:10px;
-  background-color: #FFB6C1;
+  background-color:purple;
+  color: white;
+
 
 }
 nav.links{
@@ -123,4 +127,17 @@ p3{
   color:white;
   font-family: arial, sans-serif;
   font-size: 16pt;
+}
+p4{
+  color:white;
+  font-family:arial, sans-serif;
+  font-size: 12pt;
+  letter-spacing: 1px;
+}
+
+img{
+  float:right;
+  max-width: 500px;
+  height:auto;
+  border: 5pt solid Black;
 }

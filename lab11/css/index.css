@@ -21,12 +21,27 @@ div#results{
   padding: 10px;
 }
 aside{
-  display: inline-block;
+  display: inline;
   font-size: 20px;
   padding:2px;
   min-width: 300px;
+}
+ul{
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+}
+li{
+  float: right;
 
+}
 
+li a{
+  display:block;
+  padding:5px;
+  background-color: #FFB6C1;
+  
 }
 nav.links{
   background-color: inherit;

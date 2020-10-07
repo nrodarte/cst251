@@ -21,10 +21,9 @@ div#results{
   padding: 10px;
 }
 aside{
-  display: inline;
-  font-size: 20px;
-  padding:2px;
-  min-width: 300px;
+  float: right;
+  margin: 10%;
+  width: 30%;
 }
 ul{
   list-style-type: none;
@@ -41,7 +40,7 @@ li a{
   display:block;
   padding:5px;
   background-color: #FFB6C1;
-  
+
 }
 nav.links{
   background-color: inherit;

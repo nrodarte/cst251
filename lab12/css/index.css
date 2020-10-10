@@ -25,13 +25,20 @@ div#floated{
   float: right;
   padding: 10px;
   margin:auto;
-  background-color: white;
+  background-color: orange ;
+  border: 3px solid black;
+  text-align: center;
+  max-width: 30%;
 
 }
 
 div#center-horz{
   text-align: center;
-  border: 2px solid black;
+  max-width: 30%;
+  background-color: orange;
+  border: 1px solid black;
+
+  ;
 }
 h1 {
   font-size: 36pt;
@@ -109,26 +116,39 @@ p3{
 }
 
 p4{
-  color white;
+  color: white;
   font-family: arial, sans-serif;
-  font-size: 14pt;
+  font-size: 16pt;
+   text-shadow: 0 1px 0 #ccc,
+                   0 2px 0 #c9c9c9,
+                   0 3px 0 #bbb,
+                   0 4px 0 #b9b9b9,
+                   0 5px 0 #aaa,
+                   0 6px 1px rgba(0,0,0,.1),
+                   0 0 5px rgba(0,0,0,.1),
+                   0 1px 3px rgba(0,0,0,.3),
+                   0 3px 5px rgba(0,0,0,.2),
+                   0 5px 10px rgba(0,0,0,.25),
+                   0 10px 10px rgba(0,0,0,.2),
+                   0 20px 20px rgba(0,0,0,.15);
 
 }
 
 p5{
-  color white;
+  color: white;
   font-family: arial, sans-serif;
-  font-size: 14pt;
-  /
+  font-size: 12pt;
+  
+
+
+
 }
-img{
-  max-width: 150px;
-  max-height: 250px;
-}
+
 img{
   max-width: 150px;
   max-height: 250px;
   float: right;
-  padding:10px;
+  margin-left: auto;
+  margin-right: auto;
 
 }

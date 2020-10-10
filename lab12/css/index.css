@@ -94,11 +94,11 @@ p3{
   font-family: arial, sans-serif;
   font-size: 16pt;
 }
-.center-both img{
+img.center-both{
   max-width: 150px;
   max-height: 250px;
 }
-.center-img img{
+img.center-img {
   max-width: 150px;
   max-height: 250px;
 }

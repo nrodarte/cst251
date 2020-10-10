@@ -29,6 +29,7 @@ div#floated{
   border: 3px solid black;
   text-align: center;
   max-width: 30%;
+  position: sticky;
 
 }
 
@@ -37,8 +38,10 @@ div#center-horz{
   max-width: 30%;
   background-color: orange;
   border: 1px solid black;
+  position: sticky;
 
-  ;
+
+
 }
 h1 {
   font-size: 36pt;
@@ -137,8 +140,8 @@ p4{
 p5{
   color: white;
   font-family: arial, sans-serif;
-  font-size: 12pt;
-  
+  font-size: 10pt;
+
 
 
 
@@ -150,5 +153,6 @@ img{
   float: right;
   margin-left: auto;
   margin-right: auto;
+  border: 5px solid black;
 
 }

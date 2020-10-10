@@ -20,6 +20,13 @@ div#results{
 
   padding: 10px;
 }
+
+div#floated{
+  float: right;
+  padding: 10px;
+  margin:auto;
+}
+
 h1 {
   font-size: 36pt;
   color: White;
@@ -94,6 +101,13 @@ p3{
   font-family: arial, sans-serif;
   font-size: 16pt;
 }
+
+p4{
+  color white;
+  font-family: arial, sans-serif;
+  font-size: 18pt;
+
+}
 img{
   max-width: 150px;
   max-height: 250px;
@@ -101,4 +115,7 @@ img{
 img{
   max-width: 150px;
   max-height: 250px;
+  float: right;
+  padding:10px;
+  
 }

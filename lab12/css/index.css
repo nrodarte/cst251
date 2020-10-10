@@ -8,16 +8,16 @@ div#content{
   padding: 20px
 }
 div#challenge {
-  background-color: #FFB6C1;
+
   padding: 10px;
 }
 div#problems{
-  background-color:  #FFB6C1;
+
   padding: 10px;
 }
 
 div#results{
-  background-color:  #FFB6C1;
+
   padding: 10px;
 }
 h1 {
@@ -93,4 +93,12 @@ p3{
   color:white;
   font-family: arial, sans-serif;
   font-size: 16pt;
+}
+.center-both img{
+  max-width: 150px;
+  max-height: 250px;
+}
+.center-img img{
+  max-width: 150px;
+  max-height: 250px;
 }

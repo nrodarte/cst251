@@ -46,7 +46,7 @@ div#center-horz{
 
 div#center-img{
   max-width: 30%;
-  
+  float: right;
 }
 h1 {
   font-size: 36pt;

@@ -43,6 +43,11 @@ div#center-horz{
 
 
 }
+
+div#center-img{
+  max-width: 30%;
+  
+}
 h1 {
   font-size: 36pt;
   color: White;
@@ -141,7 +146,6 @@ p5{
   color: white;
   font-family: arial, sans-serif;
   font-size: 10pt;
-
 
 
 

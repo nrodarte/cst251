@@ -17,13 +17,18 @@ z-index: 2;
 
 div#middletext{
 z-index: 2;
-
+position: absolute;
+top: -70px;
+left: 200px;
 
 }
 
 div#and{
 
-z-index: 2,
+  z-index: 3;
+  position: absolute;
+  top: 65px;
+  left: 320px;
 }
 
 div#picture{
@@ -54,7 +59,7 @@ p1{
  }
 h1{
 font-family: ProximaNova Th, sans-serif;
-font-size: 12pt;
+font-size: 9.5pt;
 color: white;
 letter-spacing: 3.5px;
 text-decoration: underline;
@@ -63,12 +68,16 @@ z-index: 2;
 
 
 h2{
-
-
-
+  color: white;
+      font-family: ProximaNova Th, sans-serif;
+      font-size: 60pt;
 }
 h6{
-
+  color: white;
+  font-family: ProximaNova Th, sans-serif;
+  font-size: 60pt;
+  position: absolute;
+  top: -35px;
 }
 
 
@@ -82,7 +91,7 @@ right: auto;
 z-index: 2;
 font-family: ProximaNova th, sans-serif;
 color: white;
-font-size: 12pt;
+font-size: 10pt;
 
 
 
@@ -106,10 +115,15 @@ display: block;
 margin-left: 150px;
 margin-right: 210px;
 z-index: 1;
-
+height: 90%;
+width: auto;
 
 }
 
 p1{
+  font-family: ProximaNova Th, sans-serif;
+    font-size: 25pt;
+    color: #061634;
+    text-decoration: solid;
 
 }

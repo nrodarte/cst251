@@ -1,3 +1,5 @@
+
+
 div#content{
   background-color: #e0cbc8
 
@@ -5,6 +7,7 @@ div#content{
 
 
 div#topright{
+position: absolute;
 
 
 }
@@ -38,7 +41,7 @@ div#bottomtext{
 
 
 h1{
-
+font-family: Proxima Nova Th, sans-serif;
 
 }
 
@@ -51,7 +54,7 @@ h2{
 
 
 h3{
-  vertical-align: 
+  vertical-align:
 
 
 

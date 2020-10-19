@@ -1,5 +1,14 @@
 
 
+
+iframe#fake {
+    width: 800px;
+    height: 500px;
+    resize: both;
+    overflow: hidden;
+}
+
+
 div#content{
   background-color: #e0cbc8;
 

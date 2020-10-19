@@ -1,7 +1,7 @@
 body.template{
   margin:35px;
-  background-color: #ffff66;
-  border: 12px  solid green;
+  background-color: grey;
+  border: 12px  solid black;
 }
 div#content{
   margin: 35px

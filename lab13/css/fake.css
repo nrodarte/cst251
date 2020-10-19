@@ -1,5 +1,11 @@
 
 
+html {
+    zoom: 0.9; /* code was from a forum from stackoverflow */
+    -moz-transform: scale(0.8);
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
+}
 
 iframe#fake {
     width: 800px;
@@ -10,129 +16,83 @@ iframe#fake {
 
 
 div#content{
-  background-color: #e0cbc8;
+  background-color: white
 
 }
 
-
-div#topright{
-position: absolute;
-top: 100px;
-left:700px;
-z-index: 2;
-
-
-}
-
-div#middletext{
-z-index: 2;
-position: absolute;
-top: -70px;
-left: 200px;
-
-}
-
-div#and{
-
-  z-index: 3;
+div#andre{
   position: absolute;
-  top: 65px;
-  left: 320px;
+      float: left;
+}
+
+div#work{
+position: fixed;
+right: 400px;
+top: auto;
+bottom: auto;
+left: auto;
+
+}
+
+ul{
+list-style: none;
+
+}
+
+li{
+  display:inline;
+  font-family: Helvetica;
+  font-size: 20pt;
+  color: black;
+
+
+
+
+}
+
+div#twenty{
+
+}
+
+div#maintext{
+
+
 }
 
 div#picture{
 
-z-index: 2,
-}
-
-div#verticalleft{
-
 
 }
 
-div#bottomtext{
-  position: fixed;
-  left: 140px;
-  top: 350px;
-z-index: 2
+img{
+border: 40px solid white;
+padding: 10px;
 
 }
 
-div#date{
-  position: fixed;
-      top: 350px;
-      left: 201px;
-}
-p1{
-
- }
 h1{
-font-family: ProximaNova Th, sans-serif;
-font-size: 9.5pt;
-color: white;
-letter-spacing: 3.5px;
-text-decoration: underline;
-z-index: 2;
+  font-family: Helvetica;
+  color: grey;
+  font-size: 19pt;
+
 }
 
 
 h2{
-  color: white;
-      font-family: ProximaNova Th, sans-serif;
-      font-size: 60pt;
-}
-h6{
-  color: white;
-  font-family: ProximaNova Th, sans-serif;
-  font-size: 60pt;
+
   position: absolute;
-  top: -35px;
-}
-
-
-h3{
-writing-mode: vertical-rl;
-position: fixed;
-top: 100px;
-bottom: 100px;
-left: 0px;
-right: auto;
-z-index: 2;
-font-family: ProximaNova th, sans-serif;
-color: white;
-font-size: 10pt;
-
-
+  top: 500px;
+  left: 0px;
+  font-size: 10pt;
+  color: gray;
 
 }
 
-h4{
-font-family: ProximaNova Th, sans-serif;
-font-size: 22pt;
-color: white;
-z-index: 2;
-}
- h5{
-   font-size: 38pt;
-   font-family: ProximaNova Th, sans-serif;
-   color: #061634;
-   position: fixed;
- }
-
-img{
-display: block;
-margin-left: 150px;
-margin-right: 210px;
-z-index: 1;
-height: 90%;
-width: auto;
-
-}
-
-p1{
-  font-family: ProximaNova Th, sans-serif;
-    font-size: 25pt;
-    color: #061634;
-    text-decoration: solid;
-
+h3 {
+    position: absolute;
+      top: 500px;
+      font-size: 160pt;
+      font-family: Helvetica;
+      font-weight: bold;
+      letter-spacing: 2px;
 }

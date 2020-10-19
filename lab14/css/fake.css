@@ -12,11 +12,16 @@ div#work{
 }
 
 ul{
-
+list-style: none;
 
 }
 
 li{
+  display:inline;
+  font-family: Helvetica;
+  font-size: 16pt;
+  color: black;
+
 
 
 }

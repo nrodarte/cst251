@@ -1,13 +1,29 @@
+
+
+iframe#fake {
+    width: 800px;
+    height: 500px;
+    resize: both;
+    overflow: hidden;
+}
+
+
 div#content{
   background-color: white
 
 }
 
 div#andre{
-
+  position: absolute;
+      float: left;
 }
 
 div#work{
+position: absolute;
+right: 400px;
+top: auto;
+bottom: auto;
+left: auto;
 
 }
 
@@ -19,8 +35,9 @@ list-style: none;
 li{
   display:inline;
   font-family: Helvetica;
-  font-size: 16pt;
+  font-size: 20pt;
   color: black;
+
 
 
 
@@ -41,23 +58,34 @@ div#picture{
 }
 
 img{
-
+border: 40px solid white;
+padding: 10px;
 
 }
 
 h1{
-
+  font-family: Helvetica;
+  color: grey;
+  font-size: 19pt;
 
 }
 
 
 h2{
 
-
+  position: absolute;
+  top: 500px;
+  left: 0px;
+  font-size: 10pt;
+  color: gray;
 
 }
 
-h3{
-
-
+h3 {
+    position: absolute;
+      top: 500px;
+      font-size: 160pt;
+      font-family: Helvetica;
+      font-weight: bold;
+      letter-spacing: 2px;
 }

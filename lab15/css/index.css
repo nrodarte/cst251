@@ -26,6 +26,16 @@ div#results{
 
 
 }
+
+img{
+  padding-top: 25px;
+  height: 600px;
+  width: 450px;
+  float: right;
+  filter: grayscale();
+  border-radius: 20px 50px 35px;
+  object-fit: cover;
+}
 h1 {
   font-size: 30pt;
   color: #CC5500;

@@ -12,9 +12,11 @@ html{
 }
 div#content{
 margin-left: 10px;
-
+transition: background-color 2s;
 
 }
+div#content{}
+
 div#challenge {
 
 
@@ -28,6 +30,16 @@ div#results{
 
 }
 
+img {
+ border-radius: 0%;
+ -webkit-transition: -webkit-transform .8s ease-in-out;
+         transition:         transform .8s ease-in-out;
+}
+img:hover {
+ -webkit-transform: rotate(360deg);
+         transform: rotate(360deg);
+}
+
 img{
   padding-top: 25px;
   height: 600px;
@@ -37,12 +49,14 @@ img{
   border-radius: 20px 50px 35px;
   object-fit: fill;
 
-
 }
 
 div#pic{
-  transition: width 2s, height 2s, transform 2s;
+
 }
+
+
+
 h1 {
   font-size: 30pt;
   color: Black;

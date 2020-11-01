@@ -1,32 +1,42 @@
 section#header{
-  border: 5px solid black;
+  border: 10px solid black;
   text-align: center;
 
 margin: 10px;
 }
 
 h4{
-  font-size: 50px;
+  font-size: 70px;
   font-family: proxima nova, sans-serif;
 }
 
 nav#navigation{
-  border: 5px solid black;
+  border: 10px solid black;
   text-align: center;
   padding: 20px;
   margin: 10px;
 
 }
-img{
+img#rbg{
   float: right;
   max-width: 35%;
-  border: 5px solid black;
+  border: 9px solid black;
   margin-right: 8px;
   margin-left: 2px;
 }
+img#thumbnail{
+  max-width: 20%;
+  border:3px solid black;
 
+}
+p5{
+  font-size: 12px;
+  font-family: proximanova, sans-serif;
+  padding:5px;
+  text-align: left;
+}
 .first {
-border: 5px solid black;
+border: 10px solid black;
 padding: 10px;
 margin: 10px;
 width: 60%;
@@ -43,7 +53,7 @@ p1{
 
 .second {
 padding:10px;
-border: 5px solid black;
+border: 10px solid black;
 margin: 10px;
 width: 60%;
 
@@ -59,7 +69,7 @@ p2{
 }
 
 .third {
-    border: 5px solid black;
+    border: 10px solid black;
 padding: 10px;
 margin: 10px;
 width: 60%;
@@ -75,9 +85,10 @@ p3{
 }
 
 aside#links{
-  border: 5px solid black;
+  border: 10px solid black;
 width: 61%;
 margin: 10px;
+text-align: left;
 
 
 }
@@ -86,19 +97,19 @@ ul{
 list-style: none;
 }
 
-ul #helpful{
+ul#helpful{
   list-style: none;
   letter-spacing: normal;
 }
 
 li{
-font-size: 20px;
-letter-spacing: 8px;
+font-size: 25px;
+letter-spacing: 5px;
 }
 
 footer#footer{
 
-    border: 5px solid black;
+    border: 10px solid black;
     position:absolute;
 margin: 10px;
     width: 60.5%;

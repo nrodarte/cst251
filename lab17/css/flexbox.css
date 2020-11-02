@@ -102,12 +102,13 @@ flex-wrap: wrap;
 
 }
 .first{
-  border: 5px solid black;
+  border: 1px solid black;
 position: absolute;
 background-color: white;
 margin: 30px;
 top: 350px;
 width: 55%;
+
 
 }
 
@@ -131,10 +132,12 @@ font-size: 18pt;
 p1,p2,p3{
   font-family: proxima nova, sans-serif;
   margin: 5px;
+  font-size: 8pt;
+  padding: 10px;
 }
 
 .second{
-border: 5px solid black;
+border: 1px solid black;
 position: absolute;
 margin: 30px;
 background-color: white;
@@ -148,7 +151,7 @@ width: 55%;
 
 
 .third{
-border: 5px solid black;
+border: 1px solid black;
 position: absolute;
 margin: 30px;
 background-color: white;

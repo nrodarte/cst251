@@ -11,7 +11,7 @@ html{
 }
 
 h4{
-font-family: proximanova, sans-serif;
+font-family: proxima nova, sans-serif;
 font-size: 40pt;
 margin: 5px;
 text-shadow: 0 1px 0 #ccc,
@@ -52,7 +52,7 @@ max-height: 50%;
 }
 
 p5{
-font-family: proximanova, sans-serif;
+font-family: proxima nova, sans-serif;
 margin: 5px;
 }
 
@@ -65,7 +65,7 @@ background-color: white;
 }
 
 h1{
-font-family: proximanova, sans-serif;
+font-family: proxima nova, sans-serif;
 font-size: 20pt;
 margin: 5px;
 text-shadow: 0 1px 0 #ccc,
@@ -83,7 +83,7 @@ text-shadow: 0 1px 0 #ccc,
 }
 
 p1{
-font-family: proximanova, sans-serif;
+font-family: proxima nova, sans-serif;
 margin: 5px;
 
 }
@@ -98,7 +98,7 @@ background-color: white;
 }
 
 h2{
-font-family: proximanova, sans-serif;
+font-family: proxima nova, sans-serif;
 font-size: 20pt;
 margin: 5px;
 text-shadow: 0 1px 0 #ccc,
@@ -116,7 +116,7 @@ text-shadow: 0 1px 0 #ccc,
 }
 
 p2{
-font-family: proximanova, sans-serif;
+font-family: proxima nova, sans-serif;
 margin: 5px;
 }
 
@@ -129,7 +129,7 @@ background-color: white;
 }
 
 h3{
-font-family: proximanova, sans-serif;
+font-family: proxima nova, sans-serif;
 font-size: 20pt;
 margin: 5px;
 text-shadow: 0 1px 0 #ccc,
@@ -147,7 +147,7 @@ text-shadow: 0 1px 0 #ccc,
 }
 
 p3{
-font-family: proximanova, sans-serif;
+font-family: proxima nova, sans-serif;
 margin: 5px;
 }
 
@@ -165,11 +165,11 @@ list-style: none;
 }
 
 ul#helpful{
-font-family: proximanova, sans-serif;
+font-family: proxima nova, sans-serif;
 }
 
 li{
-font-family: proximanova, sans-serif;
+font-family: proxima nova, sans-serif;
 font-size: 16pt;
 }
 
@@ -190,7 +190,7 @@ footer#footer{
 
 p4{
 
-font-family: proximanova, sans-serif;
+font-family: proxima nova, sans-serif;
 font-size: 20pt;
 margin: 5px;
 text-shadow: 0 1px 0 #ccc,

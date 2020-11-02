@@ -1,5 +1,5 @@
 section#header{
-
+border: 5px solid black;
 }
 
 h4{
@@ -7,6 +7,85 @@ h4{
 }
 
 nav#navigation{
+
+border: 5px solid black;
+}
+html{
+
+}
+
+h4{
+
+
+}
+
+nav#navigation{
+  border: 5px solid black;
+}
+
+img#rbg{
+border: 5px solid black;
+display:flex;
+flex-wrap: wrap;
+}
+
+img#thumbnail{
+  border: 5px solid black;
+}
+
+p5{
+
+}
+
+div.flex1{
+display: flex !important;
+flex-wrap: wrap;
+
+}
+.first{
+  border: 5px solid black;
+
+}
+
+h1, h2, h3{
+
+}
+
+p1,p2,p3{
+
+}
+
+.second{
+border: 5px solid black;
+
+}
+
+
+
+
+
+.third{
+border: 5px solid black;
+
+}
+
+aside#links{
+  border: 5px solid black;
+}
+
+ul{
+
+}
+
+li{
+
+}
+
+footer#footer{
+  border: 5px solid black;
+}
+
+p4{
 
 
 }

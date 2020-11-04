@@ -1,0 +1,30 @@
+section#header{
+  border: 5px solid black;
+}
+
+
+nav#nav{
+    border: 5px solid black;
+}
+
+.first{
+    border: 5px solid black;
+}
+
+.second{
+    border: 5px solid black;
+}
+
+.third{
+
+
+    border: 5px solid black;
+}
+
+aside{
+    border: 5px solid black;
+}
+
+footer#footer{
+    border: 5px solid black;
+}

@@ -1,40 +1,145 @@
+
+@media  only screen (max-width: 600px){
+  section#header{
+    max-width: 100%;
+    display: flex;
+  }
+  section#nav{
+    max-width: 100%;
+    display: flex;
+  }
+}
+
+html{
+  background-image: radial-gradient(white, grey, grey, black);
+}
+
 section#header{
-  border: 5px solid black;
+  border: 5px solid orange;
+  display: flex;
+  text-align: center;
+  position: relative;
+  width:30%;
+  top: 63px;
+  left: 200px;
+    background-color: white;
+
+}
+
+div{
+
+}
+
+section{
+  display: flex;
+  padding: 30px;
+  margin: 30px;
+
+}
+section#nav{
+  text-align: center;
+  border: 5px solid orange;
+
+  left: 600px;
+  width: 30%;
+    background-color: white;
 }
 
 
+
+ul{
+  list-style: none;
+  padding: 10px;
+
+}
+li{
+   font-family: proxima nova, sans-serif;
+}
 nav#nav{
-    border: 5px solid black;
+
+    display: flex;
+    text-align: center;
+      background-color: lightyellow;
+      border: 4px solid orange;
 }
 
 .first{
-    border: 5px solid black;
+  border: 5px solid orange;
+      display: flex;
+      flex-direction: column;
+        background-color: white;
+
+
+
 }
 
 .second{
-    border: 5px solid black;
+  border: 5px solid orange;
+      display: flex;
+        background-color: white;
+
 }
 
 .third{
 
+  display: flex;
+    border: 5px solid orange;
+      background-color: white;
 
-    border: 5px solid black;
 }
 
 aside{
-    border: 5px solid black;
+      border: 5px solid orange;
+    display: flex;
+    text-align: center;
+      background-color: lightyellow;
 }
 
 footer#footer{
-    border: 5px solid black;
+    border: 5px solid orange;
+    text-align: center;
+    background-color: white;
+
 }
 
 h1,h2,h3{
+ font-family: proxima nova, sans-serif;
+ text-decoration: underline;
+ font-size: 24pt;
+ text-shadow: 2px 2px 4px orange;
 
+}
+h4{
+
+ font-family: proxima nova, sans-serif;
+ font-size: 30pt;
+ display: flex;
+ text-shadow: 3px 3px 6px orange;
+
+}
+
+section#imgs{
+  Margin: 20px;
+  display: flex;
+  padding: 20px;
+}
+img{
+  width: 300px;
+  height: 300px;
+    border: 5px solid orange;
+    padding: 10px;
 
 }
 
 p1,p2,p3,p4 {
+ font-family: proxima nova, sans-serif;
+
+}
 
 
+p5{
+
+ font-family: proxima nova, sans-serif;
+ margin: 10px;
+ font-size: 11pt;
 }

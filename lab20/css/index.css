@@ -1,5 +1,16 @@
 img{
   max-width: 20%;
   max-height: 20%;
-  border: 3px solid black,
+  border: 10px solid black,
+}
+
+
+div#header{
+  border: 10px solid black;
+  text-align: center;
+}
+
+h1{
+  font-size: 30pt;
+  font-family: proxima nova, sans-serif;
 }

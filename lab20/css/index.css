@@ -1,16 +1,101 @@
 img{
-  max-width: 20%;
-  max-height: 20%;
-  border: 10px solid black,
+  max-width: 2400px;
+  max-height: 3000px;
+
+  padding: 140px;
+
+}
+
+div.nav{
+  border: 20px solid green;
+  margin: 200px;
+  background-color: white;
+  padding: 30px;
+  text-align: center;
+  max-width: 18%;
+}
+li{
+  font-family: proxima nova, sans-serif;
+  font-size: 55pt;
+
+}
+ul{
+  list-style: none;
 }
 
 
 div#header{
-  border: 10px solid black;
+  border: 27px solid black;
   text-align: center;
+  background-image: linear-gradient(cyan, green, lightgreen);
+
 }
 
 h1{
-  font-size: 30pt;
+  font-size: 70pt;
+  font-family: proxima nova, sans-serif;
+  color: black;
+  letter-spacing: 1.3em;
+  text-decoration: underline;
+  text-shadow: 12px 12px 15px WHITE
+}
+
+div#content{
+
+  margin: 50px;
+  background-image: url(https://media.istockphoto.com/vectors/seamless-decorative-hand-drawn-pattern-ethnic-endless-background-with-vector-id1049379500?b=1&k=6&m=1049379500&s=612x612&w=0&h=9bf3tTHKqMzEaO2v48hzwhib46uUBn3uyaTkujS0Wp4=);
+}
+
+img.music{
+position: relative;
+left: 35%;
+}
+
+img.home{
+position: relative;
+left: 25%;
+
+}
+
+img.art1{
+position: relative;
+left: 10%;
+
+}
+
+img.art2{
+position: relative;
+left: 13%;
+}
+
+img.media{
+position: relative;
+left: 5%;
+
+}
+
+img.food{
+  position: relative;
+  left: 16%;
+}
+
+div#musicdescription,#homedescription,#artdescription,#fooddescription,#mediadescription{
+
+  border: 20px solid green;
+  max-width: 65%;
+  background-color: white;
+  padding: 40px;
+  margin-left: 200px;
+
+
+}
+div#mediadescription{
+
+  margin-bottom: 50px;
+}
+
+p1,p2,p3,p4,p5{
+  text-align: center;
+  font-size: 55pt;
   font-family: proxima nova, sans-serif;
 }

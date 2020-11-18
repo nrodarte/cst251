@@ -1,6 +1,6 @@
 img{
-  max-width: 2400px;
-  max-height: 3000px;
+  max-width: 1200px;
+  max-height: 2000px;
 
   padding: 140px;
 
@@ -40,7 +40,7 @@ div.summary{
 }
 
 h1{
-  font-size: 70pt;
+  font-size: 40pt;
   font-family: proxima nova, sans-serif;
   color: black;
   letter-spacing: 1.3em;
@@ -99,10 +99,10 @@ div#musicdescription,#homedescription,#artdescription,#fooddescription,#mediades
 }
 
 H2{
-  font-size: 65PT;
+  font-size: 45PT;
   font-family: proxima nova, sans-serif;
   text-decoration: underline;
-  
+
 }
 div#mediadescription{
 
@@ -111,7 +111,7 @@ div#mediadescription{
 
 p1,p2,p3,p4,p5,p6,p7,p8{
   text-align: center;
-  font-size: 55pt;
+  font-size: 30pt;
   font-family: proxima nova, sans-serif;
 }
 

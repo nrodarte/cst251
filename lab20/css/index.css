@@ -30,6 +30,14 @@ div#header{
   background-image: linear-gradient(cyan, green, lightgreen);
 
 }
+div.summary{
+  background-color: white;
+  max-width: 50%;
+  text-align: center;
+  padding: 30px;
+  margin: 100px;
+  border: 20px solid green;
+}
 
 h1{
   font-size: 70pt;
@@ -89,13 +97,22 @@ div#musicdescription,#homedescription,#artdescription,#fooddescription,#mediades
 
 
 }
+
+H2{
+  font-size: 65PT;
+  font-family: proxima nova, sans-serif;
+}
 div#mediadescription{
 
   margin-bottom: 50px;
 }
 
-p1,p2,p3,p4,p5{
+p1,p2,p3,p4,p5,p6,p7,p8{
   text-align: center;
   font-size: 55pt;
   font-family: proxima nova, sans-serif;
+}
+
+p6{
+  margin-bottom: 80px;
 }

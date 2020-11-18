@@ -101,6 +101,8 @@ div#musicdescription,#homedescription,#artdescription,#fooddescription,#mediades
 H2{
   font-size: 65PT;
   font-family: proxima nova, sans-serif;
+  text-decoration: underline;
+  
 }
 div#mediadescription{
 
